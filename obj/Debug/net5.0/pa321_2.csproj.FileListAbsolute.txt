@@ -1,0 +1,15 @@
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/pa321_2.deps.json
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/pa321_2.runtimeconfig.json
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/pa321_2.runtimeconfig.dev.json
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/pa321_2.dll
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/ref/pa321_2.dll
+/Users/jakeyfrench/MIS321/pa321_2/bin/Debug/net5.0/pa321_2.pdb
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.csproj.AssemblyReference.cache
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.AssemblyInfoInputs.cache
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.AssemblyInfo.cs
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.csproj.CoreCompileInputs.cache
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.dll
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/ref/pa321_2.dll
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.pdb
+/Users/jakeyfrench/MIS321/pa321_2/obj/Debug/net5.0/pa321_2.genruntimeconfig.cache
